@@ -1,3 +1,3 @@
 export default function App() {
-  return <p>React is up and running! AQIB Hurrahhh!!</p>;
+  return <p>{import.meta.env.VITE_CS1} is up and running! AQIB Hurrahhh!!</p>;
 }
